@@ -1,0 +1,30 @@
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.exe
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.deps.json
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.runtimeconfig.json
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.dll
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.pdb
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.csproj.AssemblyReference.cache
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.AssemblyInfoInputs.cache
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.AssemblyInfo.cs
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.csproj.CoreCompileInputs.cache
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.dll
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\refint\BatalhaNavalNatalia854.dll
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.pdb
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.genruntimeconfig.cache
+C:\Curso Let's Code\Lógica de Programação\BatalhaNavalNatalia854\BatalhaNavalNatalia854\obj\Debug\net6.0\ref\BatalhaNavalNatalia854.dll
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.exe
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.deps.json
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.runtimeconfig.json
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.dll
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\bin\Debug\net6.0\BatalhaNavalNatalia854.pdb
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.dll
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\refint\BatalhaNavalNatalia854.dll
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.pdb
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\BatalhaNavalNatalia854.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Área de Trabalho\Let's Code\Logica de Programação\Batalha Naval\854prova-NataliaCampos\BatalhaNavalNatalia854\obj\Debug\net6.0\ref\BatalhaNavalNatalia854.dll
